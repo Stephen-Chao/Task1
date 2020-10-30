@@ -82,8 +82,19 @@
         自动生成一个.git的隐藏文件夹,该文件夹就是版本库
     3)查看本地仓库的状态
         git status
+        四种状态三大区域
+        三大区域:工作区,暂存区,版本区
+        四种状态:
+            untracked:新创建的文件,还没由纳入到git的控制中
+            staged: 已经暂存,执行过git add命令,还没有执行git
+            modified:有文件修改了,但是还没有git add
+            unmodified:所有文件
     4)提交
         -1 git add 文件名
-        
+        将目标文件暂存
+            git add 文件1 文件2 文件3...
         -2 git commit -m "提交信息"   
             将暂存的文件提交到版本库中
+    5)查看提交的信息
+        git log
+        git log --pretty=oneline

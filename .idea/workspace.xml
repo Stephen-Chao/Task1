@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc447aef-7ebd-4b6a-ad57-cd8a8f5a6426" name="Default Changelist" comment="" />
+    <list default="true" id="bc447aef-7ebd-4b6a-ad57-cd8a8f5a6426" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/01_git_01/day01.md" beforeDir="false" afterPath="$PROJECT_DIR$/01_git_01/day01.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/01_git_01/day01.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="74" column="14" lean-forward="true" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="14" />
+              <first_editor relative-caret-position="411">
+                <caret line="99" column="8" lean-forward="true" selection-start-line="99" selection-start-column="8" selection-end-line="99" selection-end-column="32" />
               </first_editor>
               <second_editor />
             </state>
@@ -79,6 +81,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -106,12 +110,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604020493092</updated>
-      <workItem from="1604020494236" duration="7940000" />
+      <workItem from="1604020494236" duration="9760000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7940000" />
+    <option name="totallyTimeSpent" value="9760000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -157,8 +161,8 @@
     <entry file="file://$PROJECT_DIR$/01_git_01/day01.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="74" column="14" lean-forward="true" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="14" />
+          <first_editor relative-caret-position="411">
+            <caret line="99" column="8" lean-forward="true" selection-start-line="99" selection-start-column="8" selection-end-line="99" selection-end-column="32" />
           </first_editor>
           <second_editor />
         </state>
